@@ -41,7 +41,5 @@ FoodFleet is a full-stack food delivery application built with **React** on the 
 ## Tech Stack
 - **Frontend**: React, Vite
 - **Backend**: Node.js, Express
-- **Database**: (Specify if used, e.g., MongoDB)
+- **Database**: MongoDB
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
